@@ -1,4 +1,4 @@
-# 🗣 Speech <2> Data Streamlit based Web App ✨ [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+# 🗣 Speech <2> Data Streamlit based Web App ✨ [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 A minimalistic automatic speech recognition streamlit based webapp powered by wav2vec2-base-960h Facebook model provided by HuggingFace transformers and the NL API provided by expert.ai This is an extension of [the work](https://github.com/therealexpertai/speech-2-data) done by [therealexpertai](https://github.com/therealexpertai).
 
 ![demo](https://user-images.githubusercontent.com/29462447/202569539-db8b821e-352b-4e68-a364-8c737f46c524.gif)
